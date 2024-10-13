@@ -5,5 +5,9 @@ this is the initial content of file 1
 3rd version added line from within github
 
 
+<<<<<<< HEAD
 
 this is a line added locally, 4th commit before pull
+=======
+this is the fifth commit from the github website
+>>>>>>> 5801b8fb0e7ba7beb0a91d50eabb683250467eec
